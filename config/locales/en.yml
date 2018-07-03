@@ -1,0 +1,4 @@
+en:
+  global:
+    errors:
+      phone_format: Invalid phone number
