@@ -1,8 +1,10 @@
 # SimplePhoneValidation
-Short description and motivation.
+Simple custom validator for phone numbers using a reg exp.
 
 ## Usage
-How to use my plugin.
+```
+validates :my_phone_attribute, phone: true
+```
 
 ## Installation
 Add this line to your application's Gemfile:
@@ -20,9 +22,6 @@ Or install it yourself as:
 ```bash
 $ gem install simple_phone_validation
 ```
-
-## Contributing
-Contribution directions go here.
 
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
