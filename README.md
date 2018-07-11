@@ -4,6 +4,7 @@ Simple custom validator for phone numbers using a reg exp.
 ## Usage
 ```
 validates :my_phone_attribute, phone: true
+validates :my_other_phone, phone: true, allow_blank: true
 ```
 
 ## Installation
