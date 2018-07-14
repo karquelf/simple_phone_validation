@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = SimplePhoneValidation::VERSION
   s.authors     = ["Fabien Karquel"]
   s.email       = ["fabien.karquel@gmail.com"]
-  s.homepage    = "http://example.com"
+  s.homepage    = "https://github.com/karquelf/simple_phone_validation"
   s.summary     = "Summary of SimplePhoneValidation."
   s.description = "Description of SimplePhoneValidation."
   s.license     = "MIT"
